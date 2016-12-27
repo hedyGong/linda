@@ -1,0 +1,2 @@
+# linda
+create secret memory
